@@ -40,11 +40,11 @@ You can proceed to run the note book either code by code or all at once.
 
 ## Summary of key findings (3-5 bullet points)
 
-1.
+1. The most frequent ICD-10 code "Acute respiratory Failure with hypoxia" corresponds with the most frequent HCPCS Code "Critical care, first hour". 
 
-2. 
+2. "Inpatient" has the highest percentage of claims total. This could be due to increased cost requirement for inpatient care compared to ambulatory services. However, Emergency care has a lower claim total. Inpatient claim total could include multiple services such as Internal medicine to more costly services such as Intensive care or Surgical services.   
 
-3. Medicare is one of the top payers present within the csv files and covers for multiple services and not just inpatient. 
+3. Medicare is one of the top payers present within the csv files and covers for multiple services and not just inpatient. A significant portion of patients are reliant on Medicare to cover to healthcare costs.
 
 
 
